@@ -32,6 +32,15 @@ A modern web application for generating unique AI-powered images from text promp
 ## 🚀 Quick Start
 
 1. **Clone Repository**
-   ```bash
+   
    git clone https://github.com/kavishka-CodXlab/imagegenerator.git
    cd imagegenerator
+
+ 2. **Install Dependencies**
+     npm install
+ 3. 
+
+    
+
+
+   
